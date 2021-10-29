@@ -1,4 +1,4 @@
-from core import rewriter
+from fonetize import rewriter
 
 
 def test_rewrite():
