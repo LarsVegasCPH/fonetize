@@ -1,2 +1,2 @@
-tests/.pytest_cache
+__pytest_cache__
 .idea
