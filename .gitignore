@@ -1,4 +1,4 @@
-*/__pytest_cache__/
+*/__pycache__/
 .idea
 .venv
 dist/
